@@ -20,6 +20,9 @@ My Contribution
 
 I was involved in the end-to-end development of the system, including designing and implementing the frontend/UI, developing the file-upload and data-processing functionality, integrating the database, and connecting the different components of the application.
 
+
+radhe radhe 
+
 Technologies: Python, FastAPI, Uvicorn, Pandas, SQLAlchemy, MySQL, JavaScript/HTML/CSS.
 
 Project Outcome: The system provided a more organized, accessible, and secure alternative to manually maintaining IT asset records in Excel.
